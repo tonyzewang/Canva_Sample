@@ -28,7 +28,7 @@ It is designed to be visually engaging, clearly communicate event details, and e
 ## How It Could Be Used in Marketing
 - Shared digitally on **Instagram Stories**, **Facebook groups**, and **event mailing lists**.
 - Printed and posted on **campus bulletin boards**.
-- Adapted into other formats (e.g., Instagram carousel, event banner) for Laural Home’s marketing campaigns.
+- Adapted into other formats (e.g., Instagram carousel, event banner) for marketing campaigns.
 
 ## Author
 **Ze Wang**  
